@@ -71,7 +71,7 @@ public class EventManagement {
 
             System.out.print("Enter event ID: ");
             int eventId = scanner.nextInt();
-            scanner.nextLine();  // Consume newline
+            scanner.nextLine();
 
             System.out.print("Enter new event name: ");
             String name = scanner.nextLine();
