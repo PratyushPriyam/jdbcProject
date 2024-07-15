@@ -1,4 +1,4 @@
-# jdbcProject
+# jdbcProject #74
 
 The codes in this file are a part of my training project. The topic was to develop a menu-based console application and connect it using JDBC. 
 
