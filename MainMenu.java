@@ -105,7 +105,7 @@ public class MainMenu {
             }
         } catch (InputMismatchException e) {
             System.out.println("Invalid input. Please enter a number.");
-            scanner.next(); // clear the invalid input
+            scanner.next();
         }
     }
 
@@ -138,7 +138,7 @@ public class MainMenu {
             }
         } catch (InputMismatchException e) {
             System.out.println("Invalid input. Please enter a number.");
-            scanner.next(); // clear the invalid input
+            scanner.next();
         }
     }
 }
